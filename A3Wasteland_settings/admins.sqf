@@ -8,7 +8,8 @@
 	"1234567887654321", // Meatwad
 	"8765432112345678", // Master Shake
 	"1234876543211234", // Frylock
-	"1337133713371337"  // Carl
+	"1337133713371337", // Carl
+	"76561198097508281" // teo
 
  Important: The player UID must always be placed between
             double quotes (") and all lines need to have
